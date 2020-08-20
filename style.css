@@ -1,0 +1,47 @@
+.navbar-brand{
+   color: white;
+}
+.loo{
+    color:white;
+}
+a:hover .loo{
+    color: lightsalmon;
+}
+.loom{
+    color:white;
+}
+.card-body li{
+    list-style: none;
+    background: lightsalmon;
+    justify-content: center;
+    display: flex; 
+}
+.card-body ul{
+    display: grid;
+    grid-template-columns:repeat(7,1fr) ;
+    grid-gap: 10px;
+    align-items: center;
+    font-size: 24px;
+    font-weight: 600;
+    padding-right: 30px;
+   
+   
+}
+h1{
+padding-left:25px;
+color: white;
+background: red;
+
+}
+img{
+
+    height:40%
+}
+.year{
+    font-size: 100px;
+    justify-content: center;
+    padding-right: 100px;
+    width: auto;
+    color: red;
+}
+ 
